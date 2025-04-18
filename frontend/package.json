@@ -95,7 +95,7 @@
     "server-only": "^0.0.1",
     "storybook": "^7.0.18",
     "style-dictionary": "^3.9.0",
-    "supports-color": "^8.1.1",
+    "supports-color": "^9.4.0",
     "tailwind-scrollbar-hide": "^1.1.7",
     "tailwindcss": "^3.4.0",
     "ts-jest": "^29.1.1",
